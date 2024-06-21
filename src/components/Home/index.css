@@ -1,0 +1,25 @@
+.data-container {
+    width: 100%;
+    padding: 20px;
+    overflow-y: scroll;
+}
+
+.channel-heading {
+    font-family: roboto;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+}
+
+.bar-chart-heading {
+    font-family: roboto;
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.pie-chart-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}

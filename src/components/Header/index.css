@@ -1,0 +1,21 @@
+.navbar-header {
+    background-color: #272727;
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+.main-heading {
+    font-family: roboto;
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+  }
+
+.profile-icon {
+    height: 30px;
+    width: 30px;
+    color: white;
+}
